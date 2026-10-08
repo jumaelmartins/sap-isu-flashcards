@@ -1,0 +1,6 @@
+node_modules/
+.vercel/
+.playwright-mcp/
+# material de origem e extração local (não publicados)
+Flashcards_SAP_ISU.pdf
+tools/pdf.txt
